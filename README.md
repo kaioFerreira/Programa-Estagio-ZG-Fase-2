@@ -14,6 +14,11 @@ Pacote *Connection* realiza a abertura e fechamento de toda conexão com o banco
 
 Pacote *Classes* usado para definir o modelo de cada classa.
 
+Para resolver a promoção eu usei uma tabela no banco e para calcular o preço total eu usei o que a gente chama na maratona de estrategia gulosa ou guloso, consiste em encontrar a melhor solução local para cada problema sem pensar se existe solução melhor ou se ainda existem outras opções.
+
+A cada item no caixa eu o iterava em uma lista de promoções (lista previamente ordenada(ordenada de modo que a promoção que me desse o menor custo por item fosse escolhida primeiro e assim por diante)), e a cada iteração/promoção eu retirava o maior numero possivel de promoção, até que todas as promoções acabavam e se ouvesse itens eu o devolvia com o valor de cada unidade na soma.
+
+Uma estrategia melhor para encontrar quais as melhores promoções a se usar seria em cada grupo de itens seria usando programação dinamica, pois dependendo da modelagem a solução gulosa pode não devolver o melhor resultado possivel e sim algo proximo a ele.
 
 Pacote*Pacotes de Teste* é onde esta os teste de unidade com o jUnix.
 Nesse pacote tem as classes usadas para testes durante o desenvolvimento e a classe *TestesPropostos* que tem todos os testes propostos para a parte 1 do projeto.
