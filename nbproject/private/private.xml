@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/kaiof/Documents/NetBeansProjects/EstagioZG/src/controller/EstoqueController.java</file>
+            <file>file:/C:/Users/kaiof/Documents/NetBeansProjects/EstagioZG/src/view/Caixa.java</file>
+            <file>file:/C:/Users/kaiof/Documents/NetBeansProjects/EstagioZG/src/model/dao/PromocaoDAO.java</file>
+            <file>file:/C:/Users/kaiof/Documents/NetBeansProjects/EstagioZG/src/classes/DistribuidoraModelo.java</file>
+            <file>file:/C:/Users/kaiof/Documents/NetBeansProjects/EstagioZG/test/classes/ClienteTeste.java</file>
+            <file>file:/C:/Users/kaiof/Documents/NetBeansProjects/EstagioZG/src/classes/ClienteModelo.java</file>
+            <file>file:/C:/Users/kaiof/Documents/NetBeansProjects/EstagioZG/src/controller/ClienteController.java</file>
+            <file>file:/C:/Users/kaiof/Documents/NetBeansProjects/EstagioZG/src/controller/CaixaController.java</file>
+            <file>file:/C:/Users/kaiof/Documents/NetBeansProjects/EstagioZG/src/model/dao/EstoqueDAO.java</file>
+            <file>file:/C:/Users/kaiof/Documents/NetBeansProjects/EstagioZG/src/controller/PromocaoController.java</file>
+            <file>file:/C:/Users/kaiof/Documents/NetBeansProjects/EstagioZG/src/model/dao/DistribuidoraDAO.java</file>
+            <file>file:/C:/Users/kaiof/Documents/NetBeansProjects/EstagioZG/src/view/Promocao.java</file>
+            <file>file:/C:/Users/kaiof/Documents/NetBeansProjects/EstagioZG/src/classes/PromocaoModelo.java</file>
+            <file>file:/C:/Users/kaiof/Documents/NetBeansProjects/EstagioZG/src/view/Cliente.java</file>
+            <file>file:/C:/Users/kaiof/Documents/NetBeansProjects/EstagioZG/src/connection/ConnectionBank.java</file>
+            <file>file:/C:/Users/kaiof/Documents/NetBeansProjects/EstagioZG/src/view/Estoque.java</file>
+            <file>file:/C:/Users/kaiof/Documents/NetBeansProjects/EstagioZG/src/model/dao/CaixaDAO.java</file>
+            <file>file:/C:/Users/kaiof/Documents/NetBeansProjects/EstagioZG/test/classes/CaixaTeste.java</file>
+            <file>file:/C:/Users/kaiof/Documents/NetBeansProjects/EstagioZG/src/model/dao/ClienteDAO.java</file>
+            <file>file:/C:/Users/kaiof/Documents/NetBeansProjects/EstagioZG/src/view/Distribuidora.java</file>
+            <file>file:/C:/Users/kaiof/Documents/NetBeansProjects/EstagioZG/test/classes/DistribuidoraTeste.java</file>
+            <file>file:/C:/Users/kaiof/Documents/NetBeansProjects/EstagioZG/test/classes/PromocaoTeste.java</file>
+            <file>file:/C:/Users/kaiof/Documents/NetBeansProjects/EstagioZG/test/classes/EstoqueTeste.java</file>
+            <file>file:/C:/Users/kaiof/Documents/NetBeansProjects/EstagioZG/src/classes/Produto.java</file>
+            <file>file:/C:/Users/kaiof/Documents/NetBeansProjects/EstagioZG/src/controller/DistribuidoraController.java</file>
+        </group>
+    </open-files>
+</project-private>
