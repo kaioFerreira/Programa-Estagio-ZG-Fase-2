@@ -76,18 +76,19 @@ CREATE TABLE promocao (
     FOREIGN KEY (produto_relacionado) REFERENCES estoque (codigo_produto)
 );
 
+Parte 2:
 ----------------------------------------------------------------------------------------------------
+
+A Parte 2 do projeto que era pra usar a interface eu não consegui concluir, eu criei a interface no pacote *Classes*.
+
+public interface Promocao {
+    Double verificaPromocao(Produto itemCaixa);
+}
+
+Criei um novo pacote *Promocoes* e cada promoção implementa a interfaçe Promocao e cada uma tem o seu mode de verificar se aquele item tem a quantidade suficiente para usar a promoção e tambem o modo de promoção, quantidade de itens ganha um desconto ou ganha outro item ou até mesmo brinde ou porcentagem de desconto.
+
+Mais desse modo a cada nova adição de promoção eu deveria manualmente adicinar ela no metodo de preço total para que o item podese ser analizado por aquela promoção, algo que ficaria dificil de manter.
+
+Até o momento não consegui outra solução por isso não enviei a parte 2, novamente.
+
 ----------------------------------------------------------------------------------------------------
-
-
-
-
-
-
-
-
-
-
-
-
-
