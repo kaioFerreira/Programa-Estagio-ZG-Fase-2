@@ -1,4 +1,4 @@
-# Programa Estagio ZG Soluções - Parte 2
+# Programa Estagio ZG Soluções - Fase 2
 ----------------------------------------------------------------------------------------------------
 Como avisado sobre a repetição de codigo novamente, eu separei uma classe para a conneção com o banco.
 Testes Propostos ele passou com exito e utilizei o jUnit para TDD.
